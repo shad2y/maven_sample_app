@@ -1,3 +1,16 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<HEAD>
+
+<TITLE>PRIVET WALLARM</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<H1>SLAVA WALLARMU!</H1>
+
+<style>
+body {
+background-color: white
+}
+</style>
+</BODY>
