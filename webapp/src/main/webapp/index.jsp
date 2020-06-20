@@ -1,5 +1,5 @@
 <html>
-<head><title>generator sluchainih chisel</title></head>
+<head><title>tatrara sluchainih chisel</title></head>
 <body>
   <%
     double num = Math.random();
