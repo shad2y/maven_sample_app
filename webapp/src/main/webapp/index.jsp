@@ -2,6 +2,9 @@
 <head><title>generator sluchainih chisel</title></head>
 <body>
   <%
+      <body style='background-color: red;'>
+  %>
+  <%
     double num = Math.random();
     if (num > 0.95) {
   %>
